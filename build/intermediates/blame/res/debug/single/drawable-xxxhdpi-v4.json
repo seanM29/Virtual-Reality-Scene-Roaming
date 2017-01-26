@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\exploded-aar\\gvr-android-sdk-1.0.3\\libraries-base\\unspecified\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\exploded-aar\\gvr-android-sdk-1.0.3\\libraries-base\\unspecified\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    }
+]

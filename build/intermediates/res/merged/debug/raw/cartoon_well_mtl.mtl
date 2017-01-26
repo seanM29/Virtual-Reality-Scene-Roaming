@@ -1,0 +1,13 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.10
+# Time: Sun Nov 30 15:53:54 2008
+# num_materials: 1
+newmtl cartoon_well
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.984314 0.984314 0.988235
+d 1.000000
+illum 2
+Ns 1.000000
+map_Ka cartoon_well.bmp
+# num_materials: 1

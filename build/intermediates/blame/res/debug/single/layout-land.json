@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\layout-land\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\exploded-aar\\gvr-android-sdk-1.0.3\\libraries-base\\unspecified\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\layout-land\\settings_button.xml",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\exploded-aar\\gvr-android-sdk-1.0.3\\libraries-base\\unspecified\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\layout-land\\back_button.xml",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\exploded-aar\\gvr-android-sdk-1.0.3\\libraries-base\\unspecified\\res\\layout-land\\back_button.xml"
+    }
+]

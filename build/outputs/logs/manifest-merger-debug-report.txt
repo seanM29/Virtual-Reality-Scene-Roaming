@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:3:7-55
+	android:versionName
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:4:7-38
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:8:5-74
+MERGED from [gvr-android-sdk-1.0.3:libraries-audio:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-audio\unspecified\AndroidManifest.xml:3:5-73
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:5:5-73
+MERGED from [gvr-android-sdk-1.0.3:libraries-common:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-common\unspecified\AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:8:42-71
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:8:15-41
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:9:5-78
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:9:19-51
+	android:required
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:9:52-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:14:5-79
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.NFC
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:16:5-61
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:12:5-61
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:16:22-59
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:19:5-97
+	android:required
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:19:72-95
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:19:19-71
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:20:5-93
+	android:required
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:20:68-91
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:20:19-67
+uses-feature#android.software.vr.mode
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:23:5-85
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:15:5-85
+	android:required
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:23:59-83
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:23:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:25:5-97
+MERGED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:17:5-97
+	android:required
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:25:71-95
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:25:19-70
+application
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:27:5-44:19
+	android:label
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:31:13-49
+	android:supportsRtl
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:29:13-39
+	android:allowBackup
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:28:13-39
+	android:icon
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:30:13-49
+activity#com.google.vr.sdk.samples.treasurehunt.TreasureHuntActivity
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:32:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:35:17-54
+	android:enableVrMode
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:37:17-69
+	android:label
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:34:17-53
+	android:configChanges
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:33:17-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+com.google.intent.category.CARDBOARD
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:40:27-74
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:41:17-81
+	android:name
+		ADDED from C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\src\main\AndroidManifest.xml:41:27-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [gvr-android-sdk-1.0.3:libraries-base:unspecified] C:\Users\SD\Desktop\gvr-android-sdk-1.0.3\samples\sdk-treasurehunt\build\intermediates\exploded-aar\gvr-android-sdk-1.0.3\libraries-base\unspecified\AndroidManifest.xml:10:22-78

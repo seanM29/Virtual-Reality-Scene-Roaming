@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoonmedhouse1_obj.obj",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoonmedhouse1_obj.obj"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\grid_fragment.shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\grid_fragment.shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoonmedhouse2.obj",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoonmedhouse2.obj"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\obj_vertex.shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\obj_vertex.shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\light_vertex.shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\light_vertex.shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\bed_obj.obj",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\bed_obj.obj"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoonmedhouse1.bmp",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoonmedhouse1.bmp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoon_well_mtl.mtl",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoon_well_mtl.mtl"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\passthrough_fragment.shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\passthrough_fragment.shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoon_well.bmp",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoon_well.bmp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoonmedhouse3.obj",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoonmedhouse3.obj"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\well_fragment_shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\well_fragment_shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\obj_fragment.shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\obj_fragment.shader"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\cartoon_well_obj.obj",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\cartoon_well_obj.obj"
+    },
+    {
+        "merged": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\well_vertex_shader",
+        "source": "C:\\Users\\SD\\Desktop\\gvr-android-sdk-1.0.3\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\well_vertex_shader"
+    }
+]
